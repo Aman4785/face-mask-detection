@@ -36,3 +36,9 @@ python webcam.py
 - Add face detection
 - Use MobileNet (transfer learning)
 - Deploy as web app
+
+## 🔥 New Features
+- Group photo mask detection (multi-face)
+- Dynamic label positioning (no overlap)
+- Confidence score display
+- Smart image scaling (no distortion)
